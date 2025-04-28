@@ -1,0 +1,60 @@
+# .gitignore for .NET + Angular + PostgreSQL project
+
+# Ignore Visual Studio build files
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore .NET Core generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore Angular build and node_modules
+node_modules/
+dist/
+tmp/
+out-tsc/
+
+# Ignore Angular environment files (optional if you have secrets)
+src/environments/*.ts
+
+# Ignore npm log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore VSCode settings (if you use VSCode)
+.vscode/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore PostgreSQL dumps/backups
+*.sql
+*.backup
+
+# Ignore Environment Files
+.env
+
+# Ignore IDE folders
+.idea/
+*.iml
+
+# Ignore local docker volumes (optional)
+docker-volume/
+
+# Ignore coverage reports (optional if you run tests)
+coverage/
+
+# Ignore build artifacts
+build/
+builds/
