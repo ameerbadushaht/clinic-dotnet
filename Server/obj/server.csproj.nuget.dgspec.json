@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Clinic\\server\\server.csproj": {}
+    "C:\\Projects\\Clinic\\Server\\server.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Clinic\\server\\server.csproj": {
+    "C:\\Projects\\Clinic\\Server\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Clinic\\server\\server.csproj",
+        "projectUniqueName": "C:\\Projects\\Clinic\\Server\\server.csproj",
         "projectName": "server",
-        "projectPath": "C:\\Projects\\Clinic\\server\\server.csproj",
+        "projectPath": "C:\\Projects\\Clinic\\Server\\server.csproj",
         "packagesPath": "C:\\Users\\Ameer\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Clinic\\server\\obj\\",
+        "outputPath": "C:\\Projects\\Clinic\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

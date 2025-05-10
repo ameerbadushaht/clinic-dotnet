@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U32f7WARrio=",
+  "dgSpecHash": "88zyaOLoWz4=",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Clinic\\server\\server.csproj",
+  "projectFilePath": "C:\\Projects\\Clinic\\Server\\server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ameer\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
     "C:\\Users\\Ameer\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.1\\microsoft.entityframeworkcore.9.0.1.nupkg.sha512",
